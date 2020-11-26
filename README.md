@@ -1,4 +1,4 @@
-# -Node-BypassCF Bypass the CloudFlare
+# -Node-BypassCF Bypass the CloudFlare Proxy
 # Howto
 
 yum install npm nodejs
