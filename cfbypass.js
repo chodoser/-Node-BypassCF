@@ -1,7 +1,5 @@
 /**
 // Usage : node cfbypass.js [host] [time] [list.txt (Your proxy list)]
-//Credits :
-// chodoser
 */ 
 process.on('uncaughtException', (err) => {});
 process.on('unhandledRejection', (err) => {});
