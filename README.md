@@ -2,7 +2,7 @@
 # Howto
 Centos support
 
-yum install npm nodejs
+yum install nodejs
 
 npm install cloudscraper fs request
 
